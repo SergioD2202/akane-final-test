@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "nintendo_ds_biosregular";
+  src: url("./font/Nintendo-DS-BIOS.ttf");
+}
+
+* {
+  background-color: brown;
+}
+
+.center {
+  width: 700px;
+  height: 500px;
+  margin: 50px auto auto auto;
+  position: relative;
+  background-color: cadetblue;
+}
